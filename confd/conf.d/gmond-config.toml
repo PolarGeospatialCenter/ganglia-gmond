@@ -1,0 +1,3 @@
+[template]
+src = "gmond.conf.tmpl"
+dest = "/etc/ganglia/gmond.conf"
